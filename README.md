@@ -17,13 +17,13 @@ Estudante e Desenvolvedor Web
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
 </p>
 
-## Contact
+## Contatos
 
 <p align="left" style="background:yellow">
   <a href="https://codepen.io/j-vinicius" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=codepen" alt="codepen"/>
+    <img align="center" src="https://img.shields.io/badge/-j-vinicius-05122A?style=flat&logo=codepen" alt="codepen"/>
   </a>
   <a href="https://www.linkedin.com/in/jorge-vinicius-924211215/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+    <img align="center" src="https://img.shields.io/badge/-jorge-vinicius-05122A?style=flat&logo=linkedin" alt="linkedin"/>
   </a>
 </p>
