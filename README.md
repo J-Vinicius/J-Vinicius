@@ -1,7 +1,7 @@
 Oi 👋 Meu nome é Jorge Vinicius
 ===============================
 
-Estudante e Desenvolvedor Web
+Estudante de Desenvolvimento Web
 -----------------------------
 
 * 🧠  Estou aprendendo HTML, CSS e Javascript.
