@@ -4,6 +4,10 @@
 
 <p align="left">Meu nome é Jorge Vinicius<br><br>- 📚 No momento estou aprendendo React<br>- ⚡ Em meu tempo livre eu gosto de codar</p>
 
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://jorgevinicius.netlify.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge--vinicius/)
+
 ###
 
 <h2 align="left">Eu codifico com</h2>
