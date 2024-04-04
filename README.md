@@ -11,6 +11,36 @@ My name is Jorge Vinicius and I am currently immersed in learning React, a JavaS
 *   ✉️  You can contact me at [jorgeviniciusmoreiralucas@gmail.com](mailto:jorgeviniciusmoreiralucas@gmail.com)
 *   🧠  I'm learning React, Typescript and Nextjs.### Skills 
 <p align="left">
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"
+    ><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg"
+      width="36"
+      height="36"
+      alt="Figma"
+  /></a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"
+    ><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg"
+      width="36"
+      height="36"
+      alt="VS Code"
+  /></a>
+  <a
+    href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"
+    target="_blank"
+    rel="noreferrer"
+    ><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"
+      width="36"
+      height="36"
+      alt="HTML5" /></a
+  ><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"
+    ><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg"
+      width="36"
+      height="36"
+      alt="CSS3"
+  /></a>
   <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     target="_blank"
@@ -26,27 +56,6 @@ My name is Jorge Vinicius and I am currently immersed in learning React, a JavaS
       width="36"
       height="36"
       alt="TypeScript" /></a
-  ><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"
-    ><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg"
-      width="36"
-      height="36"
-      alt="VS Code" /></a
-  ><a
-    href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"
-    target="_blank"
-    rel="noreferrer"
-    ><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"
-      width="36"
-      height="36"
-      alt="HTML5" /></a
-  ><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"
-    ><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg"
-      width="36"
-      height="36"
-      alt="CSS3" /></a
   ><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"
     ><img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg"
@@ -56,6 +65,13 @@ My name is Jorge Vinicius and I am currently immersed in learning React, a JavaS
   ><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"
     ><img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg"
+      width="36"
+      height="36"
+      alt="Vite" /></a
+  ><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"
+  ><a href="https://nextjs.org/" target="_blank" rel="noreferrer"
+    ><img
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg"
       width="36"
       height="36"
       alt="Vite" /></a
@@ -70,13 +86,7 @@ My name is Jorge Vinicius and I am currently immersed in learning React, a JavaS
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg"
       width="36"
       height="36"
-      alt="Supabase" /></a
-  ><a href="https://www.figma.com/" target="_blank" rel="noreferrer"
-    ><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg"
-      width="36"
-      height="36"
-      alt="Figma"
+      alt="Supabase"
   /></a>
 </p>
 
