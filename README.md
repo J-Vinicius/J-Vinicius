@@ -179,12 +179,14 @@ My name is Jorge Vinicius and I am currently immersed in learning React, a JavaS
     <img
       align="left"
       width="45%"
+      height="100%"
       src="https://github-readme-stats.vercel.app/api/pin/?username=J-Vinicius&repo=gallery-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
   </a>
   <a href="https://github.com/J-Vinicius/svelte-perfis" align="right">
     <img
       align="right"
       width="45%"
+      height="100%"
       src="https://github-readme-stats.vercel.app/api/pin/?username=J-Vinicius&repo=svelte-perfis&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"/>
   </a>
 </div>
