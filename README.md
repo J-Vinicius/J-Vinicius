@@ -11,9 +11,9 @@ I enjoy learning new technologies and building projects that push my skills forw
 ## 🚀 About Me
 
 * 🌍 Based in Exu, Pernambuco — Brazil
-* 🖥️ Portfolio: http://jorgeviniciuslucas.netlify.app/
+* 🖥️ Portfolio: [http://jorgeviniciuslucas.netlify.app/](https://jorgevinicius-portfolio.vercel.app/)
 * ✉️ Email: [jorgeviniciusmoreiralucas@gmail.com](mailto:jorgeviniciusmoreiralucas@gmail.com)
-* 🧠 Learning: React, TypeScript, Next.js
+* 🧠 Learning: Nuxt, Vue
 
 ---
 
