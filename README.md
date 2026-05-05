@@ -1,25 +1,25 @@
-# Hi there 👋 I'm Jorge Vinicius
+# 👋 Hi, I'm Jorge Vinicius
 
-## Front-end Developer
+### Front-end Developer
 
-I'm Jorge Vinicius, a Front-end Developer focused on building modern and responsive web applications. Currently, I'm improving my skills in **React**, **TypeScript**, and **Next.js**.
+Front-end Developer focused on building modern, responsive web applications. Currently improving skills in **React**, **TypeScript**, and **Next.js**.
 
-I enjoy coding, learning new technologies, and creating projects that help me grow as a developer.
-
----
-
-## About Me
-
-- 🌍 Based in Exu, Pernambuco - Brazil  
-- 🖥️ Portfolio: [jorgeviniciuslucas.netlify.app](http://jorgeviniciuslucas.netlify.app/)  
-- ✉️ Contact: [jorgeviniciusmoreiralucas@gmail.com](mailto:jorgeviniciusmoreiralucas@gmail.com)  
-- 🧠 Currently learning React, TypeScript and Next.js  
+I enjoy learning new technologies and building projects that push my skills forward.
 
 ---
 
-## Skills
+## 🚀 About Me
 
-<div style="display: flex; gap: 8px; flex-wrap: wrap;">
+* 🌍 Based in Exu, Pernambuco — Brazil
+* 🖥️ Portfolio: http://jorgeviniciuslucas.netlify.app/
+* ✉️ Email: [jorgeviniciusmoreiralucas@gmail.com](mailto:jorgeviniciusmoreiralucas@gmail.com)
+* 🧠 Learning: React, TypeScript, Next.js
+
+---
+
+## 🛠️ Tech Stack
+
+<p>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5"/>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3"/>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript"/>
@@ -32,13 +32,13 @@ I enjoy coding, learning new technologies, and creating projects that help me gr
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase"/>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma"/>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code"/>
-</div>
+</p>
 
 ---
 
-## Connect With Me
+## 🔗 Connect
 
-<p align="left">
+<p>
 <a href="https://github.com/J-Vinicius" target="_blank">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32"/>
 </a>
@@ -52,26 +52,12 @@ I enjoy coding, learning new technologies, and creating projects that help me gr
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
-<p align="left">
+<p>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=J-Vinicius&theme=dark&hide_border=true"/>
 </p>
 
-<p align="left">
+<p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J-Vinicius&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
----
-
-## Featured Projects
-
-<p align="center">
-<a href="https://github.com/J-Vinicius/gallery-app">
-<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=J-Vinicius&repo=gallery-app&theme=github_dark&hide_border=true"/>
-</a>
-
-<a href="https://github.com/J-Vinicius/svelte-perfis">
-<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=J-Vinicius&repo=svelte-perfis&theme=github_dark&hide_border=true"/>
-</a>
 </p>
